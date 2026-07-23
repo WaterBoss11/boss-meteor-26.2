@@ -7,7 +7,7 @@
 ## What this is
 
 - All mod functionality is **Meteor Client**, unchanged — full credit to [MeteorDevelopment](https://github.com/MeteorDevelopment) and the Meteor contributors.
-- The Minecraft 26.2 port is the work of the author of [upstream PR #6439](https://github.com/MeteorDevelopment/meteor-client/pull/6439); this fork is built from that PR's head.
+- The Minecraft 26.2 port is the work of [**Big-Iron-Cheems**](https://github.com/Big-Iron-Cheems), author of [upstream PR #6439](https://github.com/MeteorDevelopment/meteor-client/pull/6439); this fork is built from that PR's head.
 - This fork exists only to provide a working 26.2 build ahead of an official Meteor release.
 
 ## Our changes on top of PR #6439
