@@ -25,7 +25,7 @@ repositories {
     }
     maven {
         name = "Terraformers"
-        url = uri("https://maven.terraformersmc.com")
+        url = uri("https://maven.terraformersmc.com/releases")
     }
     maven {
         name = "ViaVersion"
